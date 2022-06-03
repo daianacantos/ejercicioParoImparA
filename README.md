@@ -1,0 +1,2 @@
+# ejercicioParoImparA
+Created with CodeSandbox
